@@ -1,1 +1,15 @@
 # Sprint-Review-and-Retrospective
+
+1. How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?
+
+    In order to interpret user needs and implement them into a program I first had to understand what the user is trying to accomplish. User Stories are very helpful in this process because they help to describe exactly what the user needs from the program and it also helps to show how the user will interact with the program once it is created. This gives the developer a clear idea of the direction they need to go in while developing the code. These user stories will also hep to identify the areas within the program that need to be improved as well as identify what the program still needs. This informations ensures that all of the needed requirements of this program are being met. I use the user stories by analyzing and interpreting them in a way that helps me to develop the code based on what the user needs. 
+   
+2. How do I approach developing programs? What agile processes do I hope to incorporate into my future development work?
+
+    In order to develop programs I like to approach the project in a flexible way. This flexibility can help in developing the program in increments and it is also extremely helpful when the requirements of the program change. The scrum process is extremely helpful in developing a project. This process allows you to develop in sprints as well as prioritize the parts of the project that the team finds most important. This allows bigger parts of the project to be broken down into smaller pieces that are easier to tackle. Both of these processes helps the development team to focus on what they find the most important functions and features of the program to be. Some of the agile processes I plan to incorporate into my development work is sprint plannings, pair programming, and test-driven development. Using these processes will help a more detailed and complex program. Sprint planning will allow me to be more collaborative in my program development. Pair programming will help to imporve the quality of my code as well as shear knowledge to my team members. Test-driven developmetn will help to ensure that my code is stable and free from errors. 
+
+3. What does it mean to be a good team member in software development?
+
+  In order to be a good team member in software development it is important to have certain qualities such as good communication, the ability to collaborate, and good problem-solving skills. In order to be able to work with a team you have to be able to listen to feedback, listen to others ideas, as well as be collaborative with them. You should be able to work under a time crunch and you should be able to be commited to the project to ensure that it gets fully completed by the deadline. You should take ownership of your work which means that any feedback you get should be taken, listened to, and then implemented. You whould be willing to provide help to any team members that need assitance. You should also be able to adapt easily to change and be flexible. 
+   
+   
